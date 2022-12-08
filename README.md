@@ -1,8 +1,8 @@
 # Comparative Study between Molecular and Genetic Evolutionary Analysis Tools Using African SARS-CoV-2 Variants
-#### Our Team. Lead: Nouhaila En najih, Awe Olaitan- Writers: Latifah Benta Mukanga
+#### Our Team. Lead: Nouhaila En najih, Awe Olaitan, Marion Nyaboke Nyamari- Writers: Latifah Benta Mukanga
 
 ## Abstract
-Phylogenetic analysis is considered to be a highly reliable and important bioinformatics tool.Currently we have many phylogenetic tools that biologists can use to interpret and visualize biological data.However,most of these tools require a lot of expertise and technical know-how for one to be able to use them.In this study,African SARS-CoV-2 Variants are used to compare three phylogenetic tools(MEGA, Seaview, Galaxy and Geneious) in terms of their ease of use,output and accessibility.
+Phylogenetic analysis is considered to be a highly reliable and important bioinformatics tool.Currently we have many phylogenetic tools that biologists can use to interpret and visualize biological data.However,most of these tools require a lot of expertise and technical know-how for one to be able to use them.In this study,African SARS-CoV-2 Variants are used to compare three phylogenetic tools(MEGA, Seaview and Geneious) in terms of their ease of use,output and accessibility.
 
 ## Methods
 ### Data Collection
@@ -22,13 +22,6 @@ MEGA11 is available for Microsoft Windows, Linux, and macOS in natively develope
 
 ![MEGAWorkflow](figures/workflowMEGA.PNG)
 
-#### GALAXY
-
-At https://usegalaxy.org, the Galaxy program can be used as a workflow manager. Galaxy is an open-source web-based platform, but if you want to install it on your own machine, you'll need a 64-bit UNIX environment with 4GB of RAM.
-
-
-
-![GALAXYWorkflow](figures/galaxyWorkflow.PNG)
 
 #### SEAVIEW
 
@@ -48,4 +41,5 @@ Seaview workflow manager can be installed on Microsoft Windows,Mac OS X,Linux an
 ## People/ Team
 * Olaitan I. Awe, African Society for Bioinformatics and Computational Biology, laitanawe@gmail.com
 * Nouhaila Ennajih, Systems and Data Engineering team, Abdelmalek Essaadi University,Tangier, Morocco, nouhailaennajih25@gmail.com
+* Marion Nyaboke Nyamari, School of Pure and Applied Sciences, Pwani University, Kenya, marionnyaboke01@gmail.com
 * Latifah Benta, Department of Life Sciences, South Eastern Kenya University, Kitui,Kenya, latifahmukanga@gmail.com
