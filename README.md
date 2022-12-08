@@ -20,7 +20,7 @@ The SARS CoV 2 complete genome  sequences from different countries in the South 
 
 MEGA11 is available for Microsoft Windows, Linux, and macOS in natively developed graphical user interface and command-line versions at www.megasoftware.net.  Both 32- and 64-bit versions of MEGA are available for download.
 
-![MEGAWorkflow](figures/workflowMEGA.PNG)
+![MEGAWorkflow](figures/workflow_mega.PNG)
 
 
 #### SEAVIEW
@@ -28,11 +28,11 @@ MEGA11 is available for Microsoft Windows, Linux, and macOS in natively develope
 Seaview workflow manager can be installed on Microsoft Windows,Mac OS X,Linux and Solaris through  http://doua.prabi.fr/software/seaview.
 
 
-![SEAVIEWWorkflow](figures/workflowSEAVIEW.PNG)
+![SEAVIEWWorkflow](figures/workflow_seaview.PNG)
 
 #### GENEIOUS
 
-![GENEIOUSWorkflow](figures/geneiousWorkflow.PNG)
+![GENEIOUSWorkflow](figures/workflow_geneious.PNG)
 
 ## Results
 
