@@ -2,7 +2,7 @@
 #### Our Team. Lead: Nouhaila En najih, Awe Olaitan, Marion Nyaboke Nyamari- Writers: Latifah Benta Mukanga
 
 ## Abstract
-Phylogenetic analysis is considered to be a highly reliable and important bioinformatics tool.Currently we have many phylogenetic tools that biologists can use to interpret and visualize biological data.However,most of these tools require a lot of expertise and technical know-how for one to be able to use them. In this study,African SARS-CoV-2 Variants are used to compare three phylogenetic tools(MEGA, Seaview and Geneious) in terms of their ease of use,output and accessibility.
+Phylogenetic analysis is considered to be a highly reliable and important bioinformatics tool.Currently we have many phylogenetic tools that biologists can use to interpret and visualize biological data. However,most of these tools require a lot of expertise and technical know-how for one to be able to use them. In this study,African SARS-CoV-2 Variants are used to compare three phylogenetic tools(MEGA, SeaView and Geneious) in terms of their ease of use,output and accessibility.
 
 ## Methods
 ### Data Collection
@@ -25,7 +25,7 @@ MEGA11 is available for Microsoft Windows, Linux, and macOS in natively develope
 
 #### SEAVIEW
 
-Seaview workflow manager can be installed on Microsoft Windows,Mac OS X,Linux and Solaris through  http://doua.prabi.fr/software/seaview.
+SeaView workflow manager can be installed on Microsoft Windows,Mac OS X,Linux and Solaris through  http://doua.prabi.fr/software/seaview.
 
 
 ![SEAVIEWWorkflow](figures/workflow_seaview.PNG)
