@@ -38,7 +38,7 @@ SeaView workflow manager can be installed on Microsoft Windows,Mac OS X,Linux an
 
 ![Results](figures/Results.PNG) 
 
-## People/ Team
+## Team
 * Olaitan I. Awe, African Society for Bioinformatics and Computational Biology, laitanawe@gmail.com
 * Nouhaila En najih, Systems and Data Engineering team, National School of Applied Sciences, Abdelmalek Essaadi University,Tangier, Morocco, nouhailaennajih25@gmail.com
 * Marion Nyaboke Nyamari, School of Pure and Applied Sciences, Pwani University, Kenya, marionnyaboke01@gmail.com
